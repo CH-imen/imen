@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+span.badge {
+  background-color: #198754!important;
+  color: #fff!important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
